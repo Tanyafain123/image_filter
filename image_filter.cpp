@@ -1,5 +1,5 @@
 
-//Home assignment, Tanya Fainstein, 28,06,2022//
+
 
 /**
  * function initialize_kernel, initializes kernel(as an array) of size size*size.
